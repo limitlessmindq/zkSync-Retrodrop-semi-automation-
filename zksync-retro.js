@@ -30,13 +30,6 @@ let ethereumProvider = new ethersProxyProvider(undefined, undefined, "https://pr
 // mainnet: https://eth.llamarpc.com
 // mainnet: https://mainnet.era.zksync.io
 
-// privateKey
-// const privateKey = [
-//   "0xfeaaf0634785a2f181ff9f9cb06a5742a557257063d737e428c94d744be67c3c",
-//   "0x77ab4718029ee1485df656f0e263f9c3b17e129e1f403a3e62cf89f1506fd9d6",
-//   "0x6f6df3cff65cf02dc5a68b1dda2ef5c50de4302f07e67f0b7186282bdf5e8d7a"
-// ];
-
 const ADDRESS_ZERO = ethers.constants.AddressZero;
 const WETH = "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91"; // main : 0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91
 
